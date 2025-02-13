@@ -1,3 +1,8 @@
+void main() {
+  final persona = Persona("Juan", 30);
+  persona.mostrar();
+}
+
 /// La clase `Persona` representa a una persona con un nombre y una edad.
 ///
 /// Esta clase utiliza parámetros posicionales y asignación directa a los atributos.
